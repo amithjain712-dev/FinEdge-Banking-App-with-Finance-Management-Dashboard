@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/amithjain712-dev/FinEdge/assets/banner.png" alt="FinEdge Dashboard" width="100%" />
   <br/>
   <h1>💳 FinEdge – Smart Banking & Finance Dashboard</h1>
   <p>A modern full-stack digital banking experience built with <b>Next.js</b>, designed to help users manage finances, track expenses, and visualize insights — all in one dashboard.</p>
